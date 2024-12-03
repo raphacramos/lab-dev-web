@@ -1,0 +1,8 @@
+2) Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+HTML, é uma linguagem de marcação para pode organizar o conteúdo em uma
+página Web. CSS, adiciona o estilo e layout ao HTML, permitindo criar cores, fontes, 
+margens e criar design responsivo. O JavaScript, torna a página interativa,
+permitindo validações de forms, atualizações dinâmicas.

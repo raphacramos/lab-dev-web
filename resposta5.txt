@@ -1,0 +1,7 @@
+5)Considere o cenário em que você está trabalhando em um projeto
+de site com sua dupla. Qual seria sua abordagem inicial para
+organizar as tarefas, escolher ferramentas e implementar boas
+práticas de versionamento e desenvolvimento?
+Definiria o repositorio do projeto, escolheria ferramentas que ambos tenham
+conhecimento prévio ou seja de fácil apredizado, separaria as tarefas em front-end
+e back-end, como também a revisão do que já foi feito.

@@ -1,0 +1,10 @@
+1)Explique a importância do surgimento do HTML e da World Wide
+Web no contexto da evolução da internet. Como essas tecnologias
+mudaram a forma como a informação é compartilhada
+globalmente?
+
+Com o tempo, surgiu a necessidade de pesquisadores de diferentes partes do mundo
+compartilhassem informações de forma eficiente, e assim surgiu o World Wide Web.
+Já a tecnologia de HTML, surgiu devido a necessidade de uma linguagem de marcação
+para poder organizar o conteúdo compartilhado em elementos, como títulos, parágrafos e links.
+
